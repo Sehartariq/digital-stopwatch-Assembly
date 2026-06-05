@@ -26,3 +26,6 @@ A digital stopwatch application written in **x86 Assembly language** for **EMU80
 ## 👩‍💻 Author
 **Sehar Tariq**  
 Semester Project - Computer Organization and Assembly Language Course
+
+## Demo
+https://github.com/user-attachments/assets/d3a7a852-1682-4ca8-9472-6882dab009f8
